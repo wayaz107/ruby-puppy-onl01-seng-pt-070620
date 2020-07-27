@@ -23,5 +23,6 @@ class Dog
     all.each do |dogs|
       dogs
     end
+    all
   end
 end
